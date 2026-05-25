@@ -101,12 +101,9 @@ pip install -r requirements.txt
 
 ### Run Streamlit App
 
-```bash
-streamlit run app.py
-```
+## Live Demo
 
----
-
+https://customer-churn-prediction-nidhi.streamlit.app
 ## Future Improvements
 
 - Hyperparameter tuning
