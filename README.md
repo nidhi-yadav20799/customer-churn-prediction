@@ -81,6 +81,7 @@ The following models were implemented:
 
 ## Project Structure
 
+```bash
 customer-churn-prediction/
 │
 ├── customer_churn_prediction.ipynb
@@ -88,8 +89,7 @@ customer-churn-prediction/
 ├── requirements.txt
 ├── app.py
 └── dataset.csv
-
----
+```
 
 ## How to Run
 
