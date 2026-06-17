@@ -7,7 +7,9 @@ This project focuses on predicting customer churn in the telecommunications indu
 Customer churn prediction helps businesses identify customers who are likely to discontinue their services, allowing companies to take proactive retention measures.
 
 ---
-
+## Live Demo
+🔗 https://customer-churn-prediction-nidhi.streamlit.app
+---
 ## Problem Statement
 
 Customer retention is one of the biggest challenges in the telecom industry. Acquiring new customers is significantly more expensive than retaining existing ones.
@@ -99,11 +101,11 @@ customer-churn-prediction/
 pip install -r requirements.txt
 ```
 
-### Run Streamlit App
+## Run Streamlit App
+```bash
+streamlit run app.py
+```
 
-## Live Demo
-
-https://customer-churn-prediction-nidhi.streamlit.app
 ## Future Improvements
 
 - Hyperparameter tuning
